@@ -5,4 +5,4 @@ const SuperQuality = () => {
   )
 }
 
-export default SuperQuality
+export default SuperQuality 
